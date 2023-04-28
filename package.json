@@ -1,0 +1,29 @@
+{
+  "name": "smallville",
+  "version": "1.0.0",
+  "description": "A blog based on responsive WordPress theme which use flexbox and grid layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boha-design/Smallville.git"
+  },
+  "keywords": [
+    "grid",
+    "layout",
+    "flexbox",
+    "blog",
+    "responsive",
+    "sass",
+    "WordPress",
+    "theme"
+  ],
+  "author": "Boha Design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boha-design/Smallville/issues"
+  },
+  "homepage": "https://github.com/boha-design/Smallville#readme"
+}
